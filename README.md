@@ -2,7 +2,9 @@ Convert your Image Stacks to Volume Files for Rendering or Polygon Models
 
 Features (usable with the free apprentice license): 
 >-Takes in a stack of BW Images and converts it to a volume file in a VDB Container.
+>
 >-Convert the volume File to a Polygon Model
+>
 >-Add a quick Decimation 
 
 >-Alternatively you can render the Volume file easily with the Karma renderer native to Houdini (needs a license t get rid of watermark)
